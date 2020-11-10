@@ -36,12 +36,9 @@ h3 {
     border: none;
     color: white;
     text-transform: uppercase;
+    cursor: pointer;
 }
 
 #random:hover {
     cursor: pointer;
-}
-
-#random:active {
-    background-color: rgba(0, 0, 0, .3)
 }
