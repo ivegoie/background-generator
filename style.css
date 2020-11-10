@@ -27,7 +27,7 @@ h3 {
 }
 
 button {
-    curos: pointer;
+    cursor: pointer;
 }
 
 #random {
